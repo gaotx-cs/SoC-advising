@@ -1,4 +1,4 @@
-# SoC-advising-faq
+# SoC-advising
 Common questions and answers for graduate advising at the School of Computing, DePaul University.
 
 ### Q: I have submitted a Graduate Assessment Exam (GAE). How will I know the result? If I pass, which courses should I take?
